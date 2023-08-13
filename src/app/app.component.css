@@ -1,0 +1,13 @@
+.match{
+    color: green;
+    font-weight: 600;
+}
+
+.noMatch{
+    color: red;
+    font-weight: bold;
+}
+
+.pending{
+    color: gray;
+}
